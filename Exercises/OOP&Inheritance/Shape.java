@@ -6,7 +6,7 @@
  * 
  * When a class includes abstract methods then the class itself must be abstract
  * 
- * When ann abstract class is subclassed then the subclass ussually provides an implementation
+ * When an abstract class is subclassed then the subclass ussually provides an implementation
  * for all the abstract methods in the parent class. If not, then the subclass must also be abstract.
  */
 public abstract class Shape {
